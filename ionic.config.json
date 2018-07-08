@@ -1,0 +1,8 @@
+{
+  "name": "lifetracker",
+  "app_id": "c39a4666",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
